@@ -12,8 +12,11 @@ const NameSection = () => {
         <p>
           I love building cool things on the web — from microservices to
           full-stack apps to random little JavaScript games that probably don’t
-          need to exist (but are fun anyway). Currently I am working on
-          ronakverse.net, my own universe of side projects and experiments.
+          need to exist (but are fun anyway).
+        </p>
+        <p>
+          Got a project, collaboration, or internship you think I’d be a great
+          fit for? Let’s chat!
         </p>
       </div>
       <Links />

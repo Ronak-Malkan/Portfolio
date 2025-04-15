@@ -6,6 +6,7 @@ import Projects from "./Projects";
 const InfoSection = () => {
   return (
     <div className="info-section">
+      <h2 className="sub-title">About</h2>
       <p>
         I'm a software engineer currently working toward my Master’s in Software
         Engineering at San Jose State University. <br />

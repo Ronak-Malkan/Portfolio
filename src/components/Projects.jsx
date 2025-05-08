@@ -2,6 +2,16 @@ import React from "react";
 
 const projects = [
   {
+    name: "Decentralized Skeleton",
+    date: "April 2025",
+    description: [
+      "Built a fully decentralized, peer-based load-balancing system that uses heartbeats and a weighted score (40% CPU, 30% queue length, 20% memory, 10% uptime) to pick the best node for each task, automatically failing over to the next best when one goes down.",
+      "Engineered thread-safe heartbeat processing, routing, and fallback logic to sustain 500+ reqs/sec under load, achieving seamless recovery within 5 s of a node failure. ",
+    ],
+    link: "https://github.com/Ronak-Malkan/Decentralized_Skeleton",
+    tags: ["C++", "gRPC", "JSON", "CMake", "Linux Shell Scripting"],
+  },
+  {
     name: "Ronak-Verse",
     date: "Feb 2025 - Mar 2025",
     description: [

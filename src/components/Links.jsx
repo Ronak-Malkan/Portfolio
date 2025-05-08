@@ -22,7 +22,7 @@ const Links = () => {
         <img src={linkedinLogo} alt="LinkedIn" />
       </a>
       <a
-        href="https://drive.google.com/file/d/1vcTtPGUi0ib4iiDuvCEzm9II_v79AAaI/view?usp=sharing"
+        href="https://drive.google.com/drive/folders/17QnPtVMDIok9B_YLMqpimKbuKk17zZ06?usp=sharing"
         target="_blank"
         rel="noopener noreferrer"
       >
